@@ -1,20 +1,25 @@
 ---
 
 layout: col-sidebar
-title: OWASP top 10 card game
+title: OWASP Top 10 Card Game
 tags: example-tag
 level: 4
 type: documentation
 
 ---
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+Game Description
 
-layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
+The OWASP Top Ten card game is a fun to play poker deck card game that pits the black hats against the white hats to see who can be the first to hack their opponent’s website.
+Mission Statement
 
-title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
+Using a standard poker card deck, design a card game that combines the concepts of the OWASP Top 10 and the OWASP Top 10 Proactive Controls, for novice level learners, that can be easily converted for use with customized OWASP branded playing cards.
 
-tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
+During the initial game design, red was selected as the primary color for the malicious Threat Agent (TA) (OWASP Top 10) card deck. Many options are open for the design of an OWASP branded TA card deck.
 
-level: For projects, this is your project level (2 - Incubator, 3 - Lab, 4 - Flagship)
+During the initial game design, blue was selected as the primary color for the blue cybersecurity Defense Control (DC) team (OWASP Top 10 Proactive Controls) card deck. Many options are open for the design of an OWASP branded DC card deck.
+
+Cybersecurity activities and training are frequently designed around the concept of red (attacking) and blue (defending) teams. 
+
+
 
